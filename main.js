@@ -2,7 +2,7 @@ var images = ["https://i.postimg.cc/MGn9GJXw/family.jpg",
             "Binoy.jpg",
             "Dali.jpg", "Tom.jpg", 
             "George.jpg", "Kunju Profile Photo.jpg"];
-var names = ["Fmaily Book","Binoy Thomas", "Daliya George", "Tom Binoy", "George Binoy", "Dominic Binoy"];
+var names = ["Family Book","Binoy Thomas", "Daliya George", "Tom Binoy", "George Binoy", "Dominic Binoy"];
 
 var numbers_of_family_member_in_array = 5
 
